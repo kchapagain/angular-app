@@ -1,4 +1,4 @@
-#Angular App Skeleton
+# Angular App Skeleton
 ### To Run
 `npm install`
 ### To start app
